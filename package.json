@@ -1,7 +1,7 @@
 {
     "name": "lastlanisterpay",
     "version": "1.0.0",
-    "description": "Lannister pay application for flutterwave recruitmen test.",
+    "description": "Lannister pay application for flutterwave recruitment test.",
     "main": "index.js",
     "scripts": {
       "test": "nodemon index",
@@ -9,7 +9,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/FemiFatokun03/flutterwave-test.git"
+      "url": "git+https://github.com/lizabethwordp/mylanisterpayapp.git"
     },
     "keywords": [
       "lastlanisterpay",
@@ -18,9 +18,9 @@
     "author": "Femi Fatokun",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/FemiFatokun03/flutterwave-test/issues"
+      "url": "https://github.com/lizabethwordp/mylanisterpayapp/issues"
     },
-    "homepage": "https://github.com/FemiFatokun03/flutterwave-test#readme",
+    "homepage": "https://github.com/lizabethwordp/mylanisterpayapp",
     "dependencies": {
       "bp": "^0.1.1-beta",
       "express": "^4.17.3",
